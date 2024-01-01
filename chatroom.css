@@ -67,7 +67,7 @@ body {
 .your-bubble {
   display: flex;
   justify-content: start;
-  align-items: end;
+  align-items: start;
   margin-bottom: 1rem;
 }
 .your-bubble .profile {
