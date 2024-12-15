@@ -22,6 +22,7 @@ body {
   align-items: center;
 }
 
+/* 채팅방 스타일링 */
 .chat-room {
   font-family: "Pretendard-Regular";
   width: 375px;
@@ -50,6 +51,7 @@ body {
   font-size: 1.3rem;
 }
 
+/* 채팅 말풍선 스타일링 */
 #chat-bubble {
   padding: 1rem 1.5rem;
   overflow-x: hidden;
@@ -143,6 +145,7 @@ body {
   margin-bottom: -10px;
 }
 
+/* 입력창 스타일링 */
 #chat-input-footer {
   display: flex;
   justify-content: space-between;
